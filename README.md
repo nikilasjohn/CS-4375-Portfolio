@@ -18,6 +18,6 @@
  
  I chose a dataset which contained all of YouTube's trending videos that appeared in the US over the course of several months.
  
- The notebook I made on Linear Regression can be found [here]
+ The notebook I made on Linear Regression can be found [here](2_Linear_Models/Regression.pdf)
  
- The notebook I made on Logical Regression can be found [here]
+ The notebook I made on Logical Regression can be found [here](2_Linear_Models/Classification.pdf)
