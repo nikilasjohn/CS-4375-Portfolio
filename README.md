@@ -21,3 +21,5 @@
  The notebook I made on Linear Regression can be found [here](2_Linear_Models/Regression.pdf)
  
  The notebook I made on Logical Regression can be found [here](2_Linear_Models/Classification.pdf)
+ 
+ Lastly, the dataset I used can be found in [this directory](2_Linear_Models)
