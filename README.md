@@ -30,7 +30,7 @@
  This assignment called for me to recreate logistic regression (complete) and Naive Bayes (incomplete) using the titanic_project.csv dataset
  The Naive Bayes C++ program is completed up to the final step where you determine the raw data
  
- Code:
+ Code: </br>
   [Logistic Regression](CS-4375-Portfolio/3_Scratch_Algorithms/LogReg.cpp) </br>
   [Naive Bayes](CS-4375-Portfolio/3_Scratch_Algorithms/NBayes.cpp)
  
