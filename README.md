@@ -31,7 +31,7 @@
  The Naive Bayes C++ program is completed up to the final step where you determine the raw data
  
  Code:
-  [Logistic Regression](CS-4375-Portfolio/3_Scratch_Algorithms/LogReg.cpp)
+  [Logistic Regression](CS-4375-Portfolio/3_Scratch_Algorithms/LogReg.cpp) </br>
   [Naive Bayes](CS-4375-Portfolio/3_Scratch_Algorithms/NBayes.cpp)
  
  The report can be accessed [here](CS-4375-Portfolio/3_Scratch_Algorithms/Overview.pdf)
