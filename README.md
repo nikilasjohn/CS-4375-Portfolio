@@ -32,6 +32,6 @@
  
  Code:
   [Logistic Regression](CS-4375-Portfolio/3_Scratch_Algorithms/LogReg.cpp)
-  [Naive Bayes](CS-4375-   Portfolio/3_Scratch_Algorithms/NBayes.cpp)
+  [Naive Bayes](CS-4375-Portfolio/3_Scratch_Algorithms/NBayes.cpp)
  
  The report can be accessed [here](CS-4375-Portfolio/3_Scratch_Algorithms/Overview.pdf)
