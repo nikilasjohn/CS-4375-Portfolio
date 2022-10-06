@@ -23,3 +23,15 @@
  The notebook I made on Logical Regression can be found [here](2_Linear_Models/Classification.pdf)
  
  Lastly, the dataset I used can be found in [this directory](2_Linear_Models)
+
+## ML Algorithms From Scratch
+ In this assignment, I recreated R commands in C++ to get a deeper understanding on how they work
+ 
+ This assignment called for me to recreate logistic regression (complete) and Naive Bayes (incomplete) using the titanic_project.csv dataset
+ The Naive Bayes C++ program is completed up to the final step where you determine the raw data
+ 
+ Code: </br>
+  [Logistic Regression](CS-4375-Portfolio/3_Scratch_Algorithms/LogReg.cpp) </br>
+  [Naive Bayes](CS-4375-Portfolio/3_Scratch_Algorithms/NBayes.cpp)
+ 
+ The report can be accessed [here](CS-4375-Portfolio/3_Scratch_Algorithms/Overview.pdf)
