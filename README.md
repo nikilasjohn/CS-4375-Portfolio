@@ -40,11 +40,11 @@
  In this assignment, I worked with three other classmates in creating different similarity models, using different clustering methods, and dimensionality
  reduction techniques. We also wrote a document detailing the characteristics of these different ML algorithms.
  
- Notebooks:
-  The Regression notebook can be accessed [here]
-  The Classification notebook can be accessed [here]
-  The Clustering notebook can be accessed [here](CS-4375-Portfolio/4_Similarity/Clustering.pdf)
+ Notebooks:</br>
+  The Regression notebook can be accessed [here]</br>
+  The Classification notebook can be accessed [here]</br>
+  The Clustering notebook can be accessed [here](CS-4375-Portfolio/4_Similarity/Clustering.pdf)</br>
   The Dimensionality reduction notebook can be accessed [here]
   
- Documentation:
+ Documentation:</br>
   The narrative document can be accessed [here]
