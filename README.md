@@ -43,7 +43,7 @@
  Notebooks:</br>
   The Regression notebook can be accessed [here]</br>
   The Classification notebook can be accessed [here]</br>
-  The Clustering notebook can be accessed [here](CS-4375-Portfolio/4_Similarity)</br>
+  The Clustering notebook can be accessed [here]</br>
   The Dimensionality reduction notebook can be accessed [here]
   
  Documentation:</br>
