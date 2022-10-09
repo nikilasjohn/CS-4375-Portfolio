@@ -31,10 +31,10 @@
  The Naive Bayes C++ program is completed up to the final step where you determine the raw data
  
  Code: </br>
-  [Logistic Regression](CS-4375-Portfolio/3_Scratch_Algorithms/LogReg.cpp) </br>
-  [Naive Bayes](CS-4375-Portfolio/3_Scratch_Algorithms/NBayes.cpp)
+  [Logistic Regression](3_Scratch_Algorithms/LogReg.cpp) </br>
+  [Naive Bayes](3_Scratch_Algorithms/NBayes.cpp)
  
- The report can be accessed [here](CS-4375-Portfolio/3_Scratch_Algorithms/Overview.pdf)
+ The report can be accessed [here](3_Scratch_Algorithms/Overview.pdf)
  
 ## Similarity
  In this assignment, I worked with three other classmates in creating different similarity models, using different clustering methods, and dimensionality
