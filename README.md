@@ -35,3 +35,16 @@
   [Naive Bayes](CS-4375-Portfolio/3_Scratch_Algorithms/NBayes.cpp)
  
  The report can be accessed [here](CS-4375-Portfolio/3_Scratch_Algorithms/Overview.pdf)
+ 
+## Similarity
+ In this assignment, I worked with three other classmates in creating different similarity models, using different clustering methods, and dimensionality
+ reduction techniques. We also wrote a document detailing the characteristics of these different ML algorithms.
+ 
+ Notebooks:
+  The Regression notebook can be accessed [here]
+  The Classification notebook can be accessed [here]
+  The Clustering notebook can be accessed [here](CS-4375-Portfolio/4_Similarity/Clustering.pdf)
+  The Dimensionality reduction notebook can be accessed [here]
+  
+ Documentation:
+  The narrative document can be accessed [here]
