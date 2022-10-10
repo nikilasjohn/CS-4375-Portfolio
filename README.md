@@ -41,10 +41,10 @@
  reduction techniques. We also wrote a document detailing the characteristics of these different ML algorithms.
  
  Notebooks:</br>
-  The Regression notebook can be accessed [here]</br>
+  The Regression notebook can be accessed [here](4_Similarity/Regression.pdf)</br>
   The Classification notebook can be accessed [here](4_Similarity/Classification.pdf)</br>
   The Clustering notebook can be accessed [here](4_Similarity/Clustering.pdf)</br>
-  The Dimensionality reduction notebook can be accessed [here]
+  The Dimensionality reduction notebook can be accessed [here](4_Similarity/DimensionalityReduction.pdf)
   
  Documentation:</br>
   The narrative document can be accessed [here]
