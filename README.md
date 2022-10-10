@@ -47,4 +47,4 @@
   The Dimensionality reduction notebook can be accessed [here](4_Similarity/DimensionalityReduction.pdf)
   
  Documentation:</br>
-  The narrative document can be accessed [here]
+  The narrative document can be accessed [here](4_Similarity/Narrative.pdf)
