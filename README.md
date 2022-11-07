@@ -48,3 +48,18 @@
   
  Documentation:</br>
   [Narrative document](4_Similarity/Narrative.pdf)
+  
+## Kernel/Ensemble Methods
+ In this assignment, I worked with a partner to gain experience on SVM linear, polynomial, and radial kernels. We also learned about Ensemble techniques used
+ to boost a data set. The three ensemble methods we used were Random Forest, XGBoost, and Adaboost. We also wrote a document stating how the algorithms work, 
+ their applications, and their advantages/disadvantages
+ 
+ Notebooks:</br>
+  [Regression](5_Kernel_Ensemble/SVM_Regression.pdf)</br>
+  [Classification](5_Kernel_Ensemble/SVM_Classification.pdf)</br>
+  [Ensemble Methods](5_Kernel_Ensemble/Ensemble.pdf)</br>
+ 
+ Documentation:</br>
+  [Narrative document](5_Kernel_Ensemble/Narrative.pdf)
+  
+ 
