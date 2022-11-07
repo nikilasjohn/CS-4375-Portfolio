@@ -62,4 +62,8 @@
  Documentation:</br>
   [Narrative document](5_Kernel_Ensemble/Narrative.pdf)
   
- 
+ ## ML with Sklearn
+  In this assignment, I worked on learning how to use machine learning in Python, specifically using the Sklearn library. This gave me hands on experience on   the differences between using Python and R. I used Google CoLab to create the notebook and honestly had a great time using it. It is very stream lined, and   for being a cloud-based machine learning IDE, it runs surprisingly fast. However, I am sure once the data sets become as big as the industry norm, then       there will be some problems with execution time.
+  
+  Notebooks:<br>
+   [MLsklearn](6_MLsklearn/MLsklearn.pdf)
