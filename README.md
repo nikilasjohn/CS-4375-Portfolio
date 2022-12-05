@@ -67,3 +67,9 @@
   
   Notebooks:<br>
    [MLsklearn](6_MLsklearn/MLsklearn.pdf)
+   
+## Image Classification <br>
+ In this assignment, I worked with image datasets to test different Deep Learning algorithms with the purpose of classifying them. I used a dataset of dogs and cats to see if the machine could predict if the photo was a either a dog or a cat. This assignment is NOT COMPLETE due to my lack of understanding over the subject matter, but I hope to one day come back and finish it. This was the slowest I've seen an ML algorithm run, with the longest time being 66 minutes to execute.
+ 
+  Notebooks:<br>
+   [Image Classification](7_Image_Classification/7_Image_Classification.pdf)
